@@ -1,22 +1,50 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		[
+			"pico",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"philly nice",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blammed",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
 	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "chapter 3",
+	"weekName": "pico week lmao",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
